@@ -16,7 +16,7 @@ I am a **Web Developer** specializing in creating **responsive** and **dynamic**
 </div>
 
 
-- 💼 Got a freelance gig? Hit me up via <a href="gallardowin28@gmail.com">email.</a>
+- 💼 Got a freelance gig? Hit me up via <a href="mailto:gallardowin28@gmail.com">email.</a>
 - 💬 Curious? Just ask!
 
 
